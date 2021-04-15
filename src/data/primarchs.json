@@ -1,5 +1,6 @@
 [
   {
+    "id": "001",
      "name": "Angron",
      "homeworld": "Nuceria",
      "loyalty": "Traitor",
@@ -10,6 +11,7 @@
 
   },
   {
+    "id": "002",
     "name": "Angron",
     "homeworld": "Nuceria",
     "loyalty": "Traitor",
@@ -20,6 +22,7 @@
 
  },
  {
+  "id": "003",
   "name": "Angron",
   "homeworld": "Nuceria",
   "loyalty": "Traitor",

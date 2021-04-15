@@ -1,4 +1,5 @@
 import React from 'react'
+import CharacterItem from "./CharacterItem"
 
 const CharacterGrid = ({ primarchs, isLoading}) => {
   return isLoading ? ( 
@@ -6,7 +7,10 @@ const CharacterGrid = ({ primarchs, isLoading}) => {
   ) : ( 
     <section className="cards">
         {primarchs.default.map(primarch => (
-            <h1>{primarch.name}</h1>
+            <CharacterItem 
+            key={primarch.id}
+            primarch={primarch}
+            />
         ))}
     </section>
   )
