@@ -1,0 +1,32 @@
+[
+  {
+     "name": "Angron",
+     "homeworld": "Nuceria",
+     "loyalty": "Traitor",
+     "legion": "World Eaters",
+     "status": "Alive",
+     "bio": "Is well angry all the time.", 
+     "image_path": "angron"
+
+  },
+  {
+    "name": "Angron",
+    "homeworld": "Nuceria",
+    "loyalty": "Traitor",
+    "legion": "World Eaters",
+    "status": "Alive",
+    "bio": "Is well angry all the time.", 
+    "image_path": "angron"
+
+ },
+ {
+  "name": "Angron",
+  "homeworld": "Nuceria",
+  "loyalty": "Traitor",
+  "legion": "World Eaters",
+  "status": "Alive",
+  "bio": "Is well angry all the time.", 
+  "image_path": "angron"
+
+}
+]
