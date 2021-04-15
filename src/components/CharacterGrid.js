@@ -1,5 +1,6 @@
 import React from 'react'
 import CharacterItem from "./CharacterItem"
+import "../App.css";
 
 const CharacterGrid = ({ primarchs, isLoading}) => {
   return isLoading ? ( 

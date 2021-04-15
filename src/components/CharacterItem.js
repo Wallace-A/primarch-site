@@ -1,4 +1,6 @@
 import React from 'react'
+import "../App.css";
+
 
 const CharacterItem = ({ primarch }) => {
   console.log(primarch.image_path);
@@ -18,7 +20,7 @@ const CharacterItem = ({ primarch }) => {
               <strong>Loyalty:</strong> {primarch.loyalty}
             </li>
             <li>
-              <strong>Legion:</strong> {primarch.loyalty}
+              <strong>Legion:</strong> {primarch.legion}
             </li>
             <li>
               <strong>Status:</strong> {primarch.status}
